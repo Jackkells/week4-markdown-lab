@@ -19,3 +19,6 @@
 1. First step
 
 2. Second step
+## Partner's Contribution
+
+- My name is Chiziterem Emmanuel Ezeaka.
