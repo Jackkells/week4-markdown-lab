@@ -21,4 +21,4 @@
 2. Second step
 ## Partner's Contribution
 
-- My name is Chiziterem Emmanuel Ezeaka.
+- My name is jack kells.
